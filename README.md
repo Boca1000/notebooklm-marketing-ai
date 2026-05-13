@@ -55,7 +55,7 @@ A IA consegue:
 As seguintes fontes foram utilizadas para alimentar o NotebookLM durante os estudos:
 
 ## 1️⃣ Google NotebookLM
-https://notebooklm.google.com/
+https://notebooklm.google/
 
 ## 2️⃣ Guia de Prompt Engineering
 https://www.promptingguide.ai/
@@ -64,10 +64,10 @@ https://www.promptingguide.ai/
 https://rockcontent.com/br/blog/inteligencia-artificial-no-marketing/
 
 ## 4️⃣ Automação e IA
-https://www.hubspot.com/artificial-intelligence
+https://www.hubspot.com/products/artificial-intelligence
 
 ## 5️⃣ IA e Produtividade
-https://www.notion.so/product/ai
+https://www.notion.com/product/ai
 
 ---
 
