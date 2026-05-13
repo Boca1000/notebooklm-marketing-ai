@@ -63,8 +63,8 @@ https://www.promptingguide.ai/
 ## 3️⃣ Inteligência Artificial no Marketing
 https://rockcontent.com/br/blog/inteligencia-artificial-no-marketing/
 
-## 4️⃣ Automação e IA
-https://www.hubspot.com/products/artificial-intelligence
+## 4️⃣ Automação e Inteligência Artificial
+https://www.ibm.com/br-pt/topics/artificial-intelligence
 
 ## 5️⃣ IA e Produtividade
 https://www.notion.com/product/ai
