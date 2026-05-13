@@ -120,6 +120,12 @@ Crie um resumo estratégico sobre como a IA pode melhorar campanhas de marketing
 - Insights relevantes;
 - Melhor entendimento sobre automação.
 
+### ⚠️ Dificuldade Encontrada
+A resposta inicial ficou muito ampla e genérica.
+
+### 💡 Lição Aprendida
+Prompts mais específicos geram respostas mais precisas e úteis.
+
 ---
 
 ## 🔹 Prompt 2
@@ -132,6 +138,12 @@ Explique como automações podem reduzir tempo operacional em empresas.
 - Compreensão prática sobre produtividade;
 - Aplicações reais de automação;
 - Ganho de eficiência operacional.
+
+### ⚠️ Dificuldade Encontrada
+A IA utilizou termos muito técnicos em alguns momentos.
+
+### 💡 Lição Aprendida
+Solicitar explicações simplificadas melhora o entendimento do conteúdo.
 
 ---
 
@@ -147,6 +159,12 @@ Liste aplicações práticas do NotebookLM para estudos.
 - Resumos automáticos;
 - Organização de conhecimento.
 
+### ⚠️ Dificuldade Encontrada
+Algumas aplicações ficaram repetitivas.
+
+### 💡 Lição Aprendida
+Dividir perguntas em tópicos menores melhora a qualidade das respostas.
+
 ---
 
 ## 🔹 Prompt 4
@@ -159,6 +177,12 @@ Transforme esse conteúdo em um resumo simples e didático.
 - Explicações mais acessíveis;
 - Facilidade de revisão;
 - Melhor retenção de conteúdo.
+
+### ⚠️ Dificuldade Encontrada
+Partes importantes do conteúdo foram resumidas excessivamente.
+
+### 💡 Lição Aprendida
+É importante equilibrar simplicidade e profundidade nas solicitações.
 
 ---
 
