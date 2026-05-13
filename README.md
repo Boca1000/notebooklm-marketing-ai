@@ -106,7 +106,7 @@ Foram realizados diversos testes de prompts estratégicos para melhorar a qualid
 
 ---
 
-# 🧪 Engenharia de Prompts
+## 🧪 Engenharia de Prompts
 
 ## 🔹 Prompt 1
 
@@ -119,6 +119,9 @@ Crie um resumo estratégico sobre como a IA pode melhorar campanhas de marketing
 - Organização eficiente;
 - Insights relevantes;
 - Melhor entendimento sobre automação.
+
+### 🧠 Resposta Obtida (Síntese)
+A IA explicou que ferramentas inteligentes podem automatizar processos, melhorar análises de campanhas e otimizar estratégias de marketing digital através de dados e produtividade.
 
 ### ⚠️ Dificuldade Encontrada
 A resposta inicial ficou muito ampla e genérica.
@@ -138,6 +141,9 @@ Explique como automações podem reduzir tempo operacional em empresas.
 - Compreensão prática sobre produtividade;
 - Aplicações reais de automação;
 - Ganho de eficiência operacional.
+
+### 🧠 Resposta Obtida (Síntese)
+A IA demonstrou que automações ajudam empresas a economizar tempo, reduzir tarefas repetitivas e aumentar eficiência operacional em diversos setores.
 
 ### ⚠️ Dificuldade Encontrada
 A IA utilizou termos muito técnicos em alguns momentos.
@@ -159,6 +165,9 @@ Liste aplicações práticas do NotebookLM para estudos.
 - Resumos automáticos;
 - Organização de conhecimento.
 
+### 🧠 Resposta Obtida (Síntese)
+A IA apresentou diversas aplicações do NotebookLM voltadas para estudos, revisão de conteúdos, organização de materiais e criação de resumos inteligentes.
+
 ### ⚠️ Dificuldade Encontrada
 Algumas aplicações ficaram repetitivas.
 
@@ -177,6 +186,9 @@ Transforme esse conteúdo em um resumo simples e didático.
 - Explicações mais acessíveis;
 - Facilidade de revisão;
 - Melhor retenção de conteúdo.
+
+### 🧠 Resposta Obtida (Síntese)
+A IA simplificou o conteúdo utilizando linguagem mais clara e objetiva, facilitando o aprendizado e a revisão do material.
 
 ### ⚠️ Dificuldade Encontrada
 Partes importantes do conteúdo foram resumidas excessivamente.
