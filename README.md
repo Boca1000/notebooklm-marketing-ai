@@ -67,7 +67,7 @@ https://rockcontent.com/br/blog/inteligencia-artificial-no-marketing/
 https://www.ibm.com/br-pt/topics/artificial-intelligence
 
 ## 5️⃣ IA e Produtividade
-https://www.sas.com/pt_br/news/press-releases/2024/april/sas-viya-ia-generativa-produtividade.html
+https://revistaft.com.br/o-uso-da-inteligencia-artificial-para-aumentar-a-eficienciae-produtividade-nas-empresas/
 
 ---
 
